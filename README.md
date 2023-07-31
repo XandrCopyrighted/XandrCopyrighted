@@ -10,4 +10,4 @@ uhh
 
 - 🫡 I've [hard bricked](https://en.wikipedia.org/wiki/Brick_(electronics)#Hard_brick) my phone on the 13th of July, 2023
 
-- 😱 Oh guys I use Arch btw (EndeavourOS)
+- 😱 Oh guys I use Arch btw (WSL & EndeavourOS)
