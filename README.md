@@ -4,7 +4,7 @@
 I don't know what to put here...
 uhh
 
-- 💀 I'm learning C++
+- 💀 I'm learning C++... I mean Rust
 
 - 🤓 I create random stuff
 
