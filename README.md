@@ -1,13 +1,13 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> m8, I'm Xandr</h1>
-<h3 align="center">I'm some goofy ass kid who is on GitHub.</h3>
+<h1 align="center"> Hell0 m8, I'm Xandr</h1>
+<h3 align="center">Some goofy ass kid who is on GitHub 24/7.</h3>
 
 I don't know what to put here...
 uhh
 
 - 💀 I'm learning Rust. (It's hell, I know.)
 
-- 🤓 I just create random stuff out of my head. (That's how [xanos client](https://github.com/XandrCopyrighted/xanos-client) is created.)
+- 🤓 I create repos when I'm bored. (I need to stop...)
 
-- 🫡 I've [hard bricked](https://en.wikipedia.org/wiki/Brick_(electronics)#Hard_brick) my phone on the 13th of July, 2023. (I've stole my father's tablet now, everything is good.)
+- 🫡 I've [hard bricked](https://en.wikipedia.org/wiki/Brick_(electronics)#Hard_brick) my phone on the 13th of July, 2023. (I got a new one, #PogChamp)
 
-- 😱 Oh guys I use Arch btw. (And Fedora, Alpine and Michaelsoft Binbows 11)
+- 😱 Guys I use Arch BTW. (#PogChamp x99)
