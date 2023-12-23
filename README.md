@@ -1,15 +1,29 @@
-<h1 align="center"> Hell0 m8, I'm Xandr</h1>
-<h3 align="center">Some goofy ass kid who is on GitHub 24/7.</h3>
+<h1 align="center">Hello nerds, I'm Xandr</h1>
+<h3 align="center">Some dumb ass kid coding random crap on this platform.</h3>
 
-I don't know what to put here...
-uhh
+- 🔭 I’m currently working on [Branel](https://github.com/xXanOSS/Branel)
+- 🤝 I’m looking for help with [XANOS Launcher](https://github.com/xXanOSS/XANOS-Launcher)
+- 🌱 I’m currently learning **Rust, HTML & JavaScript**
+- ⚡ Fun fact: **I'm a Linux nerd.**
 
-- 💀 I'm learning Rust. (It's [hell](https://s5.gifyu.com/images/SRWrZ.gif), I know.)
+<div> <a href="https://linktr.ee/XandrCopyrighted" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+<a href = "mailto:xxandrrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Rust-icon.png" alt="Rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Haiku-icon.png" alt="Haiku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/JavaScript-icon.jpg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Android-icon.png" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Godot-icon.png" alt="Godot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Linux-icon.png" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/VSCode-icon.png" alt="VSCode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Batch-icon.png" alt="Batch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/HTML.png" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Windows-icon.png" alt="Windows" width="40" height="40"/>
+</p>
 
-- 🤓 I create repos when I'm bored. ([owo](https://mastodon.social/@xxandr))
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=XandrCopyrighted&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="My Stats" />
 
-- 🫡 I've [hard bricked](https://en.wikipedia.org/wiki/Brick_(electronics)#Hard_brick) my phone on the 13th of July, 2023. (I got a new one)
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandrCopyrighted&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="My Top Languages" />
 
-- 😱 Guys I use Arch BTW.
-
-<h3 align="center">https://pixivfe.exozy.me/artworks/112537937.</h3>
