@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Rust, HTML & JavaScript**
 - ⚡ Fun fact: **I'm a Linux nerd.**
 
-<div> <a href="https://linktr.ee/XandrCopyrighted" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+<div> <a href="https://xandrcopyrighted.github.io/pages/links/html" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href = "mailto:xxandrrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
