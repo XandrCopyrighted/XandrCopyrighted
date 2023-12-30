@@ -11,19 +11,11 @@
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Rust-icon.png" alt="Rust" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Haiku-icon.png" alt="Haiku" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/JavaScript-icon.jpg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Android-icon.png" alt="Android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Godot-icon.png" alt="Godot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/neovim.png" alt="NeoVim" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Linux-icon.png" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/VSCode-icon.png" alt="VSCode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Batch-icon.png" alt="Batch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/micro.png" alt="Micro" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/HTML.png" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Windows-icon.png" alt="Windows" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=XandrCopyrighted&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="My Stats" />
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandrCopyrighted&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="My Top Languages" />
-
