@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Rust-icon.png" alt="Rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/JavaScript-icon.jpg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Godot-icon.png" alt="Godot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/neovim.png" alt="NeoVim" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Linux-icon.png" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/VSCode-icon.png" alt="VSCode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/micro.png" alt="Micro" width="40" height="40"/>
