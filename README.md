@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **I'm a Linux nerd.**
 
 <div> <a href="https://rebrand.ly/xXLinks" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-<a href = "mailto:xxandrrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:xxandrr@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/XandrCopyrighted/XandrCopyrighted/main/README-ICONS/Rust-icon.png" alt="Rust" width="40" height="40"/>
