@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Website](https://github.com/XandrCopyrighted/XandrCopyrighted.github.io)
 - 🤝 I’m looking for help with [xXanOSS/Ameliorated](https://github.com/xXanOSS/Ameliorated)
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust**
 - ⚡ Fun fact: **I use Arch BTW**
 
 <div> <a href="https://rebrand.ly/xXLinks" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
