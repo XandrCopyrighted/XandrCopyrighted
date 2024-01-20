@@ -1,5 +1,5 @@
 <h1 align="center">Hello nerds, I'm Xande̶r</h1>
-<h3 align="center">Some kid who's inlove with this platform.</h3>
+<h3 align="center">Some kid (14) who's inlove with this platform.</h3>
 
 - 🔭 I’m currently working on [My Website](https://github.com/XandrCopyrighted/XandrCopyrighted.github.io)
 - 🤝 I’m looking for help with [xXanOSS/Ameliorated](https://github.com/xXanOSS/Ameliorated)
