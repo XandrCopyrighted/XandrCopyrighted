@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [xFetch](https://github.com/XandrCopyrighted/xFetch)
 - 🌱 I’m currently learning **Rust**
-- ⚡ Fun fact: **I'm 14.**
+- ⚡ Fun fact: **I'm 14**
 
 <div> <a href="https://rebrand.ly/xXLinks" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href = "mailto:xxandrr@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
