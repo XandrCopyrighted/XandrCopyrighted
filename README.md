@@ -1,7 +1,8 @@
 <h1 align="center">Hello nerds, I'm Xande̶r</h1>
 <h3 align="center">A passionate individual captivated by the allure of this platform.</h3>
+<h4 align="center">^ ChatGPT</h4>
 
-- 🔭 I’m currently working on [xFetch](https://github.com/XandrCopyrighted/xFetch)
+- 🔭 I’m currently working on [DiscordRPC-media](https://github.com/XandrCopyrighted/discordrpc-media)
 - 🌱 I’m currently learning **Rust**
 - ⚡ Fun fact: **I'm 14**
 
@@ -11,7 +12,7 @@
 </div><h3 align="left">Tools & Languages:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Micro-2E3192.svg?style=for-the-badge&logo=micro-editor&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
