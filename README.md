@@ -2,8 +2,8 @@
 <h3 align="center">A passionate individual captivated by the allure of this platform.</h3>
 <h4 align="center">^ ChatGPT</h4>
 
-- 🔭 I’m currently working on [xFetch](https://github.com/XandrCopyrighted/xFetch)
-- 🌱 I’m currently learning **Rust**
+- 🔭 I’m currently working on [Cazic](https://github.com/XandrCopyrighted/Cazic)
+- 🌱 I’m currently learning **Rust** & **JavaScript**
 - ⚡ Fun fact: **I'm 14**
 
 <div> <a href="https://xandrcopyrighted.github.io/pages/links" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
