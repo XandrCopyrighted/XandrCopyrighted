@@ -6,17 +6,17 @@
 - 🌱 I’m currently learning **Rust** & recently **JavaScript**
 - ⚡ Fun fact: **I'm 14**
 
-<div> <a href="https://xandrcopyrighted.github.io/pages/links" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+<div> <a href="https://xandrcopyrighted.github.io/linktree" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href = "mailto:xxandrr@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
 </div><h3 align="left">Tools & Languages:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitpod-FFAE33?style=for-the-badge&logo=gitpod&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=fff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white"/>
+<img src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white"/>
 <img src="https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
