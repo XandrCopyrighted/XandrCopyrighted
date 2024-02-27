@@ -17,10 +17,13 @@
   <p>⚡ Fun fact: <strong>I made my GitHub account on my 13th birthday</strong></p>
 </div>
 <hr>
-</div><h3 align="center">Tools & Languages:</h3>
+</div><h3 align="center">Languages & Tools:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitpod-FFAE33?style=for-the-badge&logo=gitpod&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=fff&style=for-the-badge">
