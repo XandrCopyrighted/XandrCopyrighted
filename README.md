@@ -13,7 +13,7 @@
 
 <div align="center">
   <p>🔭 I’m currently working on <a href="https://github.com/XandrCopyrighted/Cazic">Cazic</a></p>
-  <p>🌱 I’m currently learning <strong>Rust</strong> & <strong>JavaScript</strong></p>
+  <p>🌱 I’m currently learning <strong>Rust</strong> & <strong><s>JavaScript</s></strong></p>
   <p>⚡ Fun fact: <strong>I made my GitHub account on my 13th birthday</strong></p>
 </div>
 <hr>
