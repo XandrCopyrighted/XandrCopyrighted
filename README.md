@@ -1,5 +1,3 @@
-<h1 align="center">Hello nerds, I'm <a href="https://xandrcopyrighted.github.io/pronounce">Xandr</a>.</h1>
-
 <div align="center">
   <h4 align="center">I've moved to</h4>
   <a href="https://codeberg.org/XDR/">
